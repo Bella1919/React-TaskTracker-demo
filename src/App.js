@@ -7,7 +7,7 @@ import Header from './components/header'
 import About from'./components/About'
 import Tasks from'./components/Tasks'
 import AddTask from'./components/AddTask'
-import Footer from './components/Footer'
+import Footer from './components/Footer' 
  
 // menthod 1 use function
 function App() {
